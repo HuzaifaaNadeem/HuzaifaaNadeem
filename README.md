@@ -1,16 +1,70 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif" alt="MasterHead" width="100%">
+</p>
 
-<!--
-**HuzaifaaNadeem/HuzaifaaNadeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Huzaifa Nadeem</h1>
+<h3 align="center">A passionate backend developer from Pakistan</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360" alt="Coding" width="400">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=huzaifanadeem1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+
+### 🌱 Currently Learning
+- **Programming fundamentals** (Python, C++)
+- **Data structures & algorithms** (beginner level)
+- **Problem-solving techniques**
+- **Basic computer systems & operating systems**
+
+### 💬 Ask Me About
+- C++ and Python basics
+- Data structures & algorithms
+- Git and GitHub basics
+- College CS coursework
+- Open-source for beginners
+- Fun project ideas!
+
+### 📫 How to Reach Me
+📧 **Email:** [huzaifaa.nadeeem@gmail.com](mailto:huzaifaa.nadeeem@gmail.com)
+
+### ⚡ Fun Facts
+- 📚 I learn more from **Stack Overflow** than my textbooks.
+- 🎮 I started coding because I wanted to make a game (still working on it...).
+- ☕ Coffee is now a **debugging tool**.
+- 🛠 My code works best after I **take a break and come back to it**.
+
+---
+
+### 🔗 Connect With Me
+<p align="center">
+<a href="https://fb.com/huzaifa.nadeem" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/huzaifadiedhere" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🛠 Languages and Tools
+<p align="center"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> </a> 
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifanadeem1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifanadeem1&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifanadeem1&" alt="GitHub Streak" />
+</p>
