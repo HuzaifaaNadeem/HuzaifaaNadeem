@@ -6,7 +6,7 @@
 <h3 align="center">A passionate backend developer from Pakistan (Still figuring it out...)</h3>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360" alt="Coding" width="400">
+  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360" alt="Coding" width="250">
 </p>
 
 <p align="center"> 
