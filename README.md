@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="80%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Huzaifa Nadeem</h1>
 <h3 align="center">A passionate backend developer from Pakistan (Still figuring it out...)</h3>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360" alt="Coding" width="250">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Coding" width="300">
 </p>
 
 <p align="center"> 
