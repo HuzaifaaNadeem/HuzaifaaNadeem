@@ -9,7 +9,9 @@
   <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360" alt="Coding" width="400">
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=huzaifanadeem1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=huzaifanadeem1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
 
 ### 🌱 Currently Learning
 - **Programming fundamentals** (Python, C++)
@@ -65,6 +67,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=huzaifanadeem1&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifanadeem1&" alt="GitHub Streak" />
-</p>
