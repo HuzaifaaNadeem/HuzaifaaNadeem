@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/1df3834da898f1227ec099dc7af5d6e54fd26e757cccbfe54d5fda68894065d5/68747470733a2f2f656d61696c2e75706c6572732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30372f4749462d626c6f672e676966" alt="MasterHead" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="80%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Huzaifa Nadeem</h1>
