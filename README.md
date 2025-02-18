@@ -1,38 +1,37 @@
-
 <h1 align="center">Hi 👋, I'm Huzaifa Nadeem</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan (Still figuring it out...)</h3>
+<h3 align="center">Aspiring Full-Stack Developer on a Mission! 🚀</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Coding" width="500">
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=huzaifanadeem1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=HuzaifaaNadeem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 ---
 
 ### 🎓 Educational Background
-- **A-Level Student** (Still getting my life together)
+- **A-Level Graduate** (Still getting my life together)
 - **Currently enrolled in BSCS at FAST University Karachi** (because coding sounds way cooler than... well, anything else)
 
 ### 🌱 Currently Learning
 - **Programming fundamentals** (Python, C++)
-- **Data structures & algorithms** (Still trying to understand what those really are)
-- **Problem-solving techniques** (Definitely avoiding the problems in my life though)
-- **Basic computer systems & operating systems** (Because knowing how to restart your PC is *totally* a skill)
+- **Data Structures & Algorithms** (Currently diving deep into their mysteries)
+- **Problem-Solving Techniques** (Real-life problems? Still dodging those)
+- **Basic Computer Systems & Operating Systems** (Because knowing how to restart your PC is *totally* a skill)
 
 ---
 
 ### 💬 Ask Me About
 - C++ and Python basics
-- Data structures & algorithms (I swear I'll learn them eventually)
+- Data Structures & Algorithms (I swear I'll learn them eventually)
 - Git and GitHub basics
 - College CS coursework (If you want to be confused, I'm your guy)
 - Open-source for beginners
 - Fun project ideas!
 
-### 📫 How to Reach Me
+### 📧 How to Reach Me
 📧 **Email:** [huzaifaa.nadeeem@gmail.com](mailto:huzaifaa.nadeeem@gmail.com)
 
 ---
@@ -40,13 +39,13 @@
 ### ⚡ Fun Facts
 - 📚 I learn more from **Stack Overflow** than my textbooks.
 - 🎮 I started coding because I wanted to make a game (still working on it... and I have no idea what I'm doing).
-- ☕ Coffee is now a **debugging tool**.
-- 🛠 My code works best after I **take a break and come back to it** (Don't ask why, it's magic).
-- 🧑‍💻 I’ve spent more time Googling errors than actually writing code.
-- 🎧 My playlist is filled with motivational "coding" music... or is it just random pop?
-- 🧠 I have an impressive talent for forgetting the simplest syntax when under pressure.
+- ☕ My debugger runs on caffeine.
+- 🧰 Debugging tip: Step away, come back, and—boom—magic happens.
+- 🧠 I’ve spent more time Googling errors than actually writing code.
+- 🎵 My playlist is filled with motivational "coding" music... or is it just random pop?
+- 🧤 I have an impressive talent for forgetting the simplest syntax when under pressure.
 - 💾 I’ve mastered the art of saving my work at least 5 times in 10 minutes.
-- 🦸‍♂️ I consider myself a **superhero** when I finally solve a bug after hours of struggle.
+- 🧙‍♂️ I consider myself a **superhero** when I finally solve a bug after hours of struggle.
 - 💡 My best ideas come to me **just before falling asleep** (too bad I forget them by morning).
 
 ---
@@ -74,9 +73,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifanadeem1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HuzaifaaNadeem&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifanadeem1&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuzaifaaNadeem&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HuzaifaaNadeem&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
