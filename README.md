@@ -84,9 +84,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HuzaifaaNadeem&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/HuzaifaaNadeem/HuzaifaaNadeem/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
