@@ -44,9 +44,6 @@
 - 🧠 I’ve spent more time Googling errors than actually writing code.
 - 🎵 My playlist is filled with motivational "coding" music... or is it just random pop?
 - 🧤 I have an impressive talent for forgetting the simplest syntax when under pressure.
-- 💾 I’ve mastered the art of saving my work at least 5 times in 10 minutes.
-- 🧙‍♂️ I consider myself a **superhero** when I finally solve a bug after hours of struggle.
-- 💡 My best ideas come to me **just before falling asleep** (too bad I forget them by morning).
 
 ---
 
